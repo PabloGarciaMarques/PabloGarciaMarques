@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
   #Presentación
   
-  Buenos días, me llamo Pablo García Marqués y soy de [Nava del Rey](https://es.wikipedia.org/wiki/Nava_del_Rey) provincia de valladolid,España<img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/spanish-flag-14.gif" width="90" height="80"/>
+  Buenos días, me llamo Pablo García Marqués y soy de [Nava del Rey](https://es.wikipedia.org/wiki/Nava_del_Rey) provincia de valladolid,España<img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/spanish-flag-14.gif" width="1250" height="80"/>
   
 Actualmente tengo 20 años y estoy cursando el ciclo de grado superior de **D.A.M** en el [IES San Viator](https://www.sanviatorvalladolid.com/) en Valladolid.
 
