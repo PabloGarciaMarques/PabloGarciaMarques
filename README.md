@@ -43,7 +43,9 @@ Ademas cuento con el título de Bachiller.
 
 
 Algunas de mis aficiones fuera del mundo del desarrollo son: 
-1.Los videojuegos, sobre todo el League of Legends aqui podeis echar un vistazo a mi [OP.GG](https://euw.op.gg/summoners/euw/PJun10r) donde podeis echar un vistazo a mi perfil.
+1.Los videojuegos, sobre todo el League of Legends aqui podeis echar un vistazo a mi OP.GG donde podeis echar un vistazo a mi perfil.
+
+[![OP.GG](https://euw.op.gg/summoners/euw/PJun10r)]
 
 2.Tambien me gusta el fútbol, mi equipo favorito es el REAL MADRID C.F.
 
