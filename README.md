@@ -34,7 +34,7 @@ Nivel principiante en Phyton
 
 
 Y nivel medio en Android Studio  
-<img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/Android_Studio_Trademark.svg.png" width="180" height="75"/>
+<img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/Android_Studio_Trademark.svg.png" width="200" height="75"/>
 
 
 Tambien cuento con un nivel de Inglés **B2**
