@@ -26,4 +26,4 @@ Actualmente tengo 20 años y estoy cursando el ciclo de grado superior de **D.A.
 
 Mi intencion en el futuro es dedicarme profesionalmente a la programación web.
 
-Actualmente tengo conocimientos de nivel medio en Java(
+Actualmente tengo conocimientos de nivel medio en Java(https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/1366_2000.png)
