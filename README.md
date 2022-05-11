@@ -61,7 +61,7 @@ Algunas de mis aficiones fuera del mundo del desarrollo son:
 
 ---
 
-### Citas 
+### Citas Inspiradoras 
 
 *Las cosas no tienen que cambiar el mundo para ser importantes* **Steve Jobs**
 
