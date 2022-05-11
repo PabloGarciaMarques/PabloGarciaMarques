@@ -38,3 +38,8 @@ Y nivel medio en Android Studio
 
 
 Tambien cuento con un nivel de Inglés **B2**
+
+
+
+Algunas de mis aficiones fuera del mundo del desarrollo son: 
+1.Los videojuegos, sobre todo el League of Legends (https://euw.op.gg/summoners/euw/PJun10r)
