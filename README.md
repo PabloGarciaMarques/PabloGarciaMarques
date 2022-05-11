@@ -33,4 +33,5 @@ Nivel principiante en Phyton
 <img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/1200px-Python-logo-notext.svg.png" width="80" height="75"/>
 
 
-Y nivel medio en Android Studio
+Y nivel medio en Android Studio  
+<img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/Android_Studio_Trademark.svg.png" width="80" height="75"/>
