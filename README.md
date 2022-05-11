@@ -59,4 +59,11 @@ Algunas de mis aficiones fuera del mundo del desarrollo son:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PabloGarciaMarques&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+---
+
+### Citas 
+
+*Las cosas no tienen que cambiar el mundo para ser importantes* **Steve Jobs**
+
+*Uno es dueño de lo que calla y esclavo de lo que habla* **Sigmund Freud**
 
