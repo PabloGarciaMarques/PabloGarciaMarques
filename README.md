@@ -31,3 +31,6 @@ Actualmente tengo conocimientos de nivel medio en Java
 
 Nivel principiante en Phyton   
 <img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/1200px-Python-logo-notext.svg.png" width="80" height="75"/>
+
+
+Y nivel medio en Android Studio
