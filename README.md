@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   
   #Presentación
   
-  Buenos días, me llamo Pablo García Marqués y soy de Nava del Rey provincia de valladolid
+  Buenos días, me llamo Pablo García Marqués y soy de [Nava del Rey]( provincia de valladolid
