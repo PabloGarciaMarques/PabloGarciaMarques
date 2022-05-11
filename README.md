@@ -29,4 +29,5 @@ Mi intencion en el futuro es dedicarme profesionalmente a la programación web.
 Actualmente tengo conocimientos de nivel medio en Java  
 <img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/java-logo.jpg" width="80" height="75"/>
 
-Nivel principiante en Phyton <img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/1200px-Python-logo-notext.svg.png" width="80" height="75"/>
+Nivel principiante en Phyton   
+<img src="https://github.com/PabloGarciaMarques/PabloGarciaMarques/blob/main/1200px-Python-logo-notext.svg.png" width="80" height="75"/>
