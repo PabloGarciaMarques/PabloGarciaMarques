@@ -39,6 +39,7 @@ Y nivel medio en Android Studio
 
 Tambien cuento con un nivel de Inglés **B2**
 
+Ademas cuento con el título de Bachiller.
 
 
 Algunas de mis aficiones fuera del mundo del desarrollo son: 
