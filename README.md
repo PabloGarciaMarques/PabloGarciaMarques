@@ -67,5 +67,5 @@ Algunas de mis aficiones fuera del mundo del desarrollo son:
 
 *Uno es dueño de lo que calla y esclavo de lo que habla* **Sigmund Freud**
 
-[![java](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![java](C:\Users\Pablo\Downloads\226777.png)]()
 
