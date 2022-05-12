@@ -67,5 +67,5 @@ Algunas de mis aficiones fuera del mundo del desarrollo son:
 
 *Uno es dueño de lo que calla y esclavo de lo que habla* **Sigmund Freud**
 
-[![java](C:\Users\Pablo\Downloads\226777.png)]()
+
 
