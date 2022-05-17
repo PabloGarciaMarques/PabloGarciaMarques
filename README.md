@@ -63,9 +63,9 @@ Algunas de mis aficiones fuera del mundo del desarrollo son:
 
 ### Citas Inspiradoras 
 
-> Las cosas no tienen que cambiar el mundo para ser importantes* **Steve Jobs**
+> Las cosas no tienen que cambiar el mundo para ser importantes **Steve Jobs**
 
-> Uno es dueño de lo que calla y esclavo de lo que habla* **Sigmund Freud**
+> Uno es dueño de lo que calla y esclavo de lo que habla **Sigmund Freud**
 
 
 
